@@ -24,3 +24,16 @@ C:\Users\MHeli\OneDrive\Desktop\CarRentalzippeed\CarRental\CarRental\obj\Debug\C
 C:\Users\MHeli\OneDrive\Desktop\CarRentalzippeed\CarRental\CarRental\obj\Debug\Carental Limited.csproj.CoreCompileInputs.cache
 C:\Users\MHeli\OneDrive\Desktop\CarRentalzippeed\CarRental\CarRental\obj\Debug\CarRental.exe
 C:\Users\MHeli\OneDrive\Desktop\CarRentalzippeed\CarRental\CarRental\obj\Debug\CarRental.pdb
+C:\Users\MHeli\OneDrive\Desktop\Hit\CarRental\CarRental\obj\Debug\Carental Limited.csproj.AssemblyReference.cache
+C:\Users\MHeli\OneDrive\Desktop\Hit\CarRental\CarRental\bin\Debug\CarRental.exe.config
+C:\Users\MHeli\OneDrive\Desktop\Hit\CarRental\CarRental\bin\Debug\CarRental.exe
+C:\Users\MHeli\OneDrive\Desktop\Hit\CarRental\CarRental\bin\Debug\CarRental.pdb
+C:\Users\MHeli\OneDrive\Desktop\Hit\CarRental\CarRental\obj\Debug\Carental_Limited.Form1.resources
+C:\Users\MHeli\OneDrive\Desktop\Hit\CarRental\CarRental\obj\Debug\CarRental.Frontend.Inventory.resources
+C:\Users\MHeli\OneDrive\Desktop\Hit\CarRental\CarRental\obj\Debug\CarRental.Frontend.LoadingScreen.resources
+C:\Users\MHeli\OneDrive\Desktop\Hit\CarRental\CarRental\obj\Debug\CarRental.Frontend.MainMenu.resources
+C:\Users\MHeli\OneDrive\Desktop\Hit\CarRental\CarRental\obj\Debug\CarRental.Properties.Resources.resources
+C:\Users\MHeli\OneDrive\Desktop\Hit\CarRental\CarRental\obj\Debug\Carental Limited.csproj.GenerateResource.cache
+C:\Users\MHeli\OneDrive\Desktop\Hit\CarRental\CarRental\obj\Debug\Carental Limited.csproj.CoreCompileInputs.cache
+C:\Users\MHeli\OneDrive\Desktop\Hit\CarRental\CarRental\obj\Debug\CarRental.exe
+C:\Users\MHeli\OneDrive\Desktop\Hit\CarRental\CarRental\obj\Debug\CarRental.pdb
