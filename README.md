@@ -2,7 +2,7 @@
 
 This README provides an overview of the Car Rental project, a comprehensive application for managing car rentals. It utilizes Object-Oriented Programming (OOP) principles with a hierarchical class structure, polymorphism, collection management, and data serialization for a robust and flexible system. The application features a user-friendly graphical interface.
 
-# **Features:**
+# **Features**
 
 * **Car Inventory:**
   - Manages a list of vehicles, including car types (Family, Sport, Commercial, Truck), prices, fuel types, and unique identification numbers.
@@ -27,7 +27,7 @@ This README provides an overview of the Car Rental project, a comprehensive appl
   - Uses `FileUtiles` class (not shown here) for saving and loading car data to/from a file using serialization techniques.
   - This enables persistence of car data across application sessions.
 
-# **Getting Started:**
+# **Getting Started**
 
 1. **Clone the Repository:**
   ``` bash
@@ -46,7 +46,7 @@ Follow the build instructions for your development environment to generate the e
 
 Execute the generated executable file to launch the Car Rental application.
 
-# **Usage:**
+# **Usage**
 
 1. **Login:**
 - Upon launching the application, you may be prompted for login credentials. Username: admin, Password: admin.
@@ -64,7 +64,7 @@ Execute the generated executable file to launch the Car Rental application.
 - The application allows swapping cars between parking lots using the `SwapCars` method. Select 2 cars and swap their locations
 - You can also delete a car by selecting it and pressing "Remove" or dragging it to the $ gif.
 
-# **Contributing:**
+# **Contributing**
 
 If you'd like to contribute to this project, please fork the repository and submit a pull request.
 
