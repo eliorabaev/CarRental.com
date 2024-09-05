@@ -10,7 +10,6 @@ A comprehensive application for managing car rentals inventory. It utilizes Obje
   - Visually represents cars in a parking lot-like layout.
 * **Sorting and Filtering:**
   - Enables sorting the car inventory by various criteria (car number, company, price, fuel type, car type).
-  - Provides filtering capabilities to search for cars based on specific criteria (implemented in the Frontend).
 * **Hierarchical Class Structure:**
   - Implements a base class `Vehicle` and derived classes `Car` (further specialized into `FamilyCar`, `SportCar`, etc.) representing different car types.
   - This structure promotes code reusability, extensibility, and polymorphism.
