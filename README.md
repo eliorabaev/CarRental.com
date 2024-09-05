@@ -31,8 +31,7 @@ A comprehensive application for managing car rentals inventory. It utilizes Obje
 
 1. **Clone the Repository:**
   ``` bash
-  git clode https://github.com/eliorabaev/CarRental.com.git
-  cd CarRental.com\CarRental\bin\Debug
+  git clone https://github.com/eliorabaev/CarRental.com.git
   ```
 2. **Open the Project:**
 
