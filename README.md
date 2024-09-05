@@ -1,6 +1,6 @@
 # Car Rental Project
 
-This README provides an overview of the Car Rental project, a comprehensive application for managing car rentals. It utilizes Object-Oriented Programming (OOP) principles with a hierarchical class structure, polymorphism, collection management, and data serialization for a robust and flexible system. The application features a user-friendly graphical interface.
+A comprehensive application for managing car rentals inventory. It utilizes Object-Oriented Programming (OOP) principles with a hierarchical class structure, polymorphism, collection management, and data serialization for a robust and flexible system. The application features a user-friendly graphical interface.
 
 # **Features**
 
